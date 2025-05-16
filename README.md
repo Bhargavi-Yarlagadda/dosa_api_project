@@ -28,4 +28,5 @@ This project provides a REST API backend for managing a dosa restaurant's orders
    - Raw OpenAPI Schema: http://127.0.0.1:8000/openapi.json
 5. You can test all endpoints through the interactive Swagger UI available at: http://127.0.0.1:8000/docs
 
-![Swagger UI Screenshot](swagger_ui.png)(swagger_ui_1.png)
+![Swagger UI Screenshot](swagger_ui.png)
+![Swagger UI Screenshot]swagger_ui_1.png)
